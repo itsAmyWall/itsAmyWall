@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a software engineer who enjoys building projects relat
 ## 🌱 Current Projects
 
 - **Malware Analysis Lab**: Building a secure, isolated environment for malware analysis using static and dynamic techniques.
-- **Surf Swell Map**: A map-based tool to check surf conditions.
+- **E-Commerce Shop**: Building a fully functional e-commerce platform
 
 ## 📫 How to Reach Me
 
