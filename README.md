@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub! I'm a software engineer who enjoys building projects related to web development, security, and open-source. I love experimenting with new technologies and creating tools that solve real-world problems.
+Welcome to my GitHub! I'm a software engineer who enjoys building projects related to web development and security. I love experimenting with new technologies and creating tools that solve real-world problems.
 
 ## 🔧 Technologies & Tools
 
