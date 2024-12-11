@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a software engineer who enjoys building projects relat
 ## 🌱 Current Projects
 
 - **Malware Analysis Lab**: Building a secure, isolated environment for malware analysis using static and dynamic techniques.
-- **E-Commerce Shop**: Building a fully functional e-commerce platform
+- **E-Commerce Shop**: Building a fully functional e-commerce platform.
 
 ## 📫 How to Reach Me
 
