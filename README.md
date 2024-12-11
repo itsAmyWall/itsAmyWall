@@ -19,4 +19,3 @@ Welcome to my GitHub! I'm a software engineer who enjoys building projects relat
 - [LinkedIn](https://www.linkedin.com/in/amy-wall/)
 - [Email](mailto:itsAmyWall@gmail.com)
 
-Thanks for stopping by! Feel free to check out my repositories and contribute if you find something interesting.
