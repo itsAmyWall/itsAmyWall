@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**itsAmyWall/itsAmyWall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a software engineer who enjoys building projects related to web development, security, and open-source. I love experimenting with new technologies and creating tools that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, TypeScript, Python, SQL
+- **Frameworks/Libraries**: React, Node.js, Express, MongoDB
+- **Tools**: Git, Docker, VirtualBox, Vite, FLARE VM, REMnux
+- **Other**: Malware Analysis, Static & Dynamic Analysis, Open-Source Contributions
+
+## 🌱 Current Projects
+
+- **Malware Analysis Lab**: Building a secure, isolated environment for malware analysis using static and dynamic techniques.
+- **Surf Swell Map**: A map-based tool to check surf conditions.
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/amy-wall/)
+- [Email](mailto:itsAmyWall@gmail.com)
+
+Thanks for stopping by! Feel free to check out my repositories and contribute if you find something interesting.
