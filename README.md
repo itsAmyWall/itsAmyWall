@@ -4,10 +4,9 @@ Welcome to my GitHub! I'm a software engineer who enjoys building projects relat
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript, Python, SQL
+- **Languages**: Python, SQL, JavaScript, HTML, CSS
 - **Frameworks/Libraries**: React, Node.js, Express, MongoDB
-- **Tools**: Git, Docker, VirtualBox, Vite, FLARE VM, REMnux
-- **Other**: Malware Analysis, Static & Dynamic Analysis, Open-Source Contributions
+- **Tools**: Splunk, Wazuh, TheHive, Shuffle, Git, Docker
 
 ## 🌱 Current Projects
 
